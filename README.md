@@ -1,4 +1,4 @@
-# Accelerating-Neural-Networks-on-FPGAs-An-Overview
+# Accelerating Neural Networks on FPGAs: An Overview
 
 **Author**: | Moiz Zaheer Malik  
 **Institution**: | Hochschule Hamm-Lippstadt, Germany  
