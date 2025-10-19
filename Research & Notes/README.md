@@ -4,16 +4,16 @@
 
 Sub-questions:
 
-What is FPGA architecture and why is it suitable for neural networks?
+> 1: What is FPGA architecture and why is it suitable for neural networks?
 
-What are the common FPGA acceleration techniques (parallelism, pipelining, quantization)?
+ 2:What are the design frameworks (e.g., Xilinx Vitis AI, Intel OpenVINO)?
 
-How do FPGAs compare to CPUs/GPUs for NN workloads?
+> 3: What are the common FPGA acceleration techniques (parallelism, pipelining, quantization)?
 
-What are the design frameworks (e.g., Xilinx Vitis AI, Intel OpenVINO)?
+> 4: How do FPGAs compare to CPUs/GPUs for NN workloads?
 
-What challenges exist (memory bandwidth, resource utilization, development time)?
+> 5: What challenges exist (memory bandwidth, resource utilization, development time)?
 
-What are future research directions (dynamic reconfiguration, hybrid systems, etc.)?
+> 6: What are future research directions (dynamic reconfiguration, hybrid systems, etc.)?
 
 
