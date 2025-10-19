@@ -1,6 +1,6 @@
 # Notes
 
-#Main topic: Accelerating Neural Networks on FPGAs
+### Main topic: Accelerating Neural Networks on FPGAs
 
 Sub-questions:
 
