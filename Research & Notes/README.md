@@ -2,7 +2,7 @@
 
 ## Main topic: Accelerating Neural Networks on FPGAs
 
-Sub-questions:
+Sub questions:
 
 > 1: What is FPGA architecture and why is it suitable for neural networks?
 
