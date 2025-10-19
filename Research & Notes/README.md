@@ -157,7 +157,7 @@ New FPGA families (like Xilinx Versal AI Core) include built-in AI engines and h
 Designed specifically for deep learning acceleration.
 
 In short:
-Future FPGA research focuses on making them more flexible, intelligent, and easier to use — by adding dynamic reconfiguration, hybrid computing, and smarter tools for AI deployment.
+Future FPGA research focuses on making them more flexible, intelligent, and easier to use  by adding dynamic reconfiguration, hybrid computing, and smarter tools for AI deployment.
 
 
 
