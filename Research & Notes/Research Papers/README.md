@@ -2,6 +2,9 @@
 ## For Introduction
 ### FPGA-Based Accelerators of Deep Learning Networks for Learning and Classification: A Review
 
+<img width="1156" height="507" alt="image" src="https://github.com/user-attachments/assets/7182b5e0-94f0-46a0-ad0c-554d93e0857e" />
+<img width="373" height="311" alt="image" src="https://github.com/user-attachments/assets/fe339b4d-8f4d-4511-94ca-c007f25816dd" />
+<img width="406" height="611" alt="image" src="https://github.com/user-attachments/assets/0d857dd5-2e21-456d-a226-b2eaeacdb842" />
 
 
 
