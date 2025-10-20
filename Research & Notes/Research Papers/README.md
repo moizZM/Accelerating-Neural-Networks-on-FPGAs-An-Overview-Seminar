@@ -3,16 +3,39 @@
 ### FPGA-Based Accelerators of Deep Learning Networks for Learning and Classification: A Review
 
 <img width="1156" height="507" alt="image" src="https://github.com/user-attachments/assets/7182b5e0-94f0-46a0-ad0c-554d93e0857e" />
+
 <img width="373" height="311" alt="image" src="https://github.com/user-attachments/assets/fe339b4d-8f4d-4511-94ca-c007f25816dd" />
+
 <img width="406" height="611" alt="image" src="https://github.com/user-attachments/assets/0d857dd5-2e21-456d-a226-b2eaeacdb842" />
 
+<img width="522" height="444" alt="image" src="https://github.com/user-attachments/assets/d333d2a6-8dbc-45b4-9483-3daae10c4ef1" />
+
+<img width="487" height="668" alt="image" src="https://github.com/user-attachments/assets/7d53b62c-35e5-4c38-9817-568757f676e5" />
+
+<img width="513" height="759" alt="image" src="https://github.com/user-attachments/assets/a23b8633-baf8-41f4-84b1-ebbb2cd1b718" />
+
+---
 
 
+# For challenges 
 
+### FPGA-Based Accelerators of Deep Learning Networks for Learning and Classification: A Review
 
+<img width="506" height="570" alt="image" src="https://github.com/user-attachments/assets/c5e9abbe-d6df-4740-bfcb-204cbbcb21f5" />
 
+<img width="365" height="804" alt="image" src="https://github.com/user-attachments/assets/bc8f7df1-cc1c-460d-921c-5b0aa47b1fc1" />
 
+---
 
+# why use FPGA for neural networks?
+
+<img width="371" height="235" alt="image" src="https://github.com/user-attachments/assets/1189a12a-d39d-44d5-a69d-e6017fa49293" />
+
+<img width="629" height="843" alt="image" src="https://github.com/user-attachments/assets/449cebce-b760-4cd0-82c2-1c6253080afe" />
+<img width="631" height="821" alt="image" src="https://github.com/user-attachments/assets/4b1eec79-4733-42fd-932e-7578ef6c133b" />
+<img width="629" height="859" alt="image" src="https://github.com/user-attachments/assets/438eb422-cb49-4aea-a467-c3cca177a827" />
+<img width="614" height="820" alt="image" src="https://github.com/user-attachments/assets/95f576a7-8112-4ed1-a4e4-2f36fb4275dd" />
+<img width="642" height="861" alt="image" src="https://github.com/user-attachments/assets/df6d64e3-a762-455b-905e-8085971d47b2" />
 
 
 
