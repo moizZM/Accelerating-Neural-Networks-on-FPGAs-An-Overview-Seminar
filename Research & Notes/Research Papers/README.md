@@ -30,7 +30,6 @@
 # why use FPGA for neural networks?
 
 <img width="371" height="235" alt="image" src="https://github.com/user-attachments/assets/1189a12a-d39d-44d5-a69d-e6017fa49293" />
-
 <img width="629" height="843" alt="image" src="https://github.com/user-attachments/assets/449cebce-b760-4cd0-82c2-1c6253080afe" />
 <img width="631" height="821" alt="image" src="https://github.com/user-attachments/assets/4b1eec79-4733-42fd-932e-7578ef6c133b" />
 <img width="629" height="859" alt="image" src="https://github.com/user-attachments/assets/438eb422-cb49-4aea-a467-c3cca177a827" />
