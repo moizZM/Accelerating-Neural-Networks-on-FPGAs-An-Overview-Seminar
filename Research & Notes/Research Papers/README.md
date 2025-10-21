@@ -23,14 +23,17 @@
 
 
 ### SCNN: An Accelerator for Compressed-Sparse Convolutional Neural Networks
-<img width="589" height="678" alt="image" src="https://github.com/user-attachments/assets/51ba36cc-fe5d-42c1-bd89-482428082646" />
+<img width="515" height="720" alt="image" src="https://github.com/user-attachments/assets/dbeda748-3984-42a7-b402-f4f1fe28eb36" />
 
+<img width="515" height="126" alt="image" src="https://github.com/user-attachments/assets/e0dd21cf-2694-40ed-936a-e7d4354386af" />
 
 
 ---
 
 
 # For challenges 
+### SCNN: An Accelerator for Compressed-Sparse Convolutional Neural Networks
+<img width="496" height="345" alt="image" src="https://github.com/user-attachments/assets/5ed326cd-a44f-4270-8ed5-514429ef7037" />
 
 ### FPGA-Based Accelerators of Deep Learning Networks for Learning and Classification: A Review
 
