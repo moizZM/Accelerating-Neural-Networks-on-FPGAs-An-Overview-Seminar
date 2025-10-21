@@ -10,9 +10,17 @@
 
 <img width="522" height="444" alt="image" src="https://github.com/user-attachments/assets/d333d2a6-8dbc-45b4-9483-3daae10c4ef1" />
 
+---
+
+### What is FPGA
 <img width="487" height="668" alt="image" src="https://github.com/user-attachments/assets/7d53b62c-35e5-4c38-9817-568757f676e5" />
 
 <img width="513" height="759" alt="image" src="https://github.com/user-attachments/assets/a23b8633-baf8-41f4-84b1-ebbb2cd1b718" />
+
+---
+
+### what is a neural networks
+
 
 ---
 
