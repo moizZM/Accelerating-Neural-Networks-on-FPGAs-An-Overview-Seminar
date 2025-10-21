@@ -1,5 +1,9 @@
 # Notes
 
+## study about  *Stochastic Gradient Descent (SGD)*
+
+---
+
 ## Main topic: Accelerating Neural Networks on FPGAs
 
 Sub questions:
