@@ -29,7 +29,34 @@
 
 
 ---
+### 
+### A survey on FPGA-based accelerator for ML models
+Why Use FPGA for Neural Networks?
+![Uploading image.png…]()
 
+![Uploading image.png…]()
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 # For challenges 
 ### SCNN: An Accelerator for Compressed-Sparse Convolutional Neural Networks
