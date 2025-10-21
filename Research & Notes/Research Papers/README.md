@@ -22,6 +22,11 @@
 ### what is a neural networks
 
 
+### SCNN: An Accelerator for Compressed-Sparse Convolutional Neural Networks
+<img width="589" height="678" alt="image" src="https://github.com/user-attachments/assets/51ba36cc-fe5d-42c1-bd89-482428082646" />
+
+
+
 ---
 
 
