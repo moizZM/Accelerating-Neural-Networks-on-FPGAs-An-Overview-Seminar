@@ -32,7 +32,8 @@
 ### 
 ### A survey on FPGA-based accelerator for ML models
 Why Use FPGA for Neural Networks?
-![Uploading image.png…]()
+<img width="805" height="788" alt="image" src="https://github.com/user-attachments/assets/e755391a-0313-4170-8ac1-7f6184ca5d98" />
+
 
 
 
