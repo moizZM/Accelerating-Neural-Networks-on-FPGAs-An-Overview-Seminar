@@ -34,7 +34,6 @@
 Why Use FPGA for Neural Networks?
 ![Uploading image.png…]()
 
-![Uploading image.png…]()
 
 
 ---
