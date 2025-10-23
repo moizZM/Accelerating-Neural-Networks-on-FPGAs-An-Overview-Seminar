@@ -3,7 +3,19 @@
 ## study about  *Stochastic Gradient Descent (SGD)*
 
 ---
+### what is VGG-16 keep it short 
 
+VGG-16 is a deep convolutional neural network made by Oxford’s Visual Geometry Group (VGG).
+It has 16 layers (mostly convolution layers) and is mainly used for image recognition — like telling what objects are in a picture.
+
+### what is a convolutional neural netwrok
+
+A convolutional neural network (CNN) is a type of deep learning model designed to analyze images.
+
+It works by using small filters (called convolutions) that slide over the image to detect patterns like edges, shapes, and textures.
+These patterns are combined in deeper layers to recognize objects — for example, a face, car, or animal.
+
+---
 ## Main topic: Accelerating Neural Networks on FPGAs
 
 Sub questions:
