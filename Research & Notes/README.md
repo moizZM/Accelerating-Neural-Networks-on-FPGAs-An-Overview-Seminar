@@ -3,7 +3,7 @@
 ## study about  *Stochastic Gradient Descent (SGD)*
 
 ---
-### what is VGG-16 keep it short 
+### what is VGG-16
 
 VGG-16 is a deep convolutional neural network made by Oxford’s Visual Geometry Group (VGG).
 It has 16 layers (mostly convolution layers) and is mainly used for image recognition — like telling what objects are in a picture.
