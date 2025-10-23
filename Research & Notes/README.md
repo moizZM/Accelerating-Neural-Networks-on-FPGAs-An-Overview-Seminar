@@ -1,6 +1,5 @@
 # Notes
 
-## study about  *Stochastic Gradient Descent (SGD)*
 
 ---
 ### what is VGG-16
@@ -14,6 +13,14 @@ A convolutional neural network (CNN) is a type of deep learning model designed t
 
 It works by using small filters (called convolutions) that slide over the image to detect patterns like edges, shapes, and textures.
 These patterns are combined in deeper layers to recognize objects — for example, a face, car, or animal.
+
+## understand this
+
+<img width="751" height="377" alt="image" src="https://github.com/user-attachments/assets/62f1e9e4-6374-43ef-a76c-c661199d86b1" />
+
+ ---
+
+## study about  *Stochastic Gradient Descent (SGD)*
 
 ---
 ## Main topic: Accelerating Neural Networks on FPGAs
