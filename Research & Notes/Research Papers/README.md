@@ -31,8 +31,32 @@
 ---
 ### 
 ### A survey on FPGA-based accelerator for ML models
-Why Use FPGA for Neural Networks?
+### Why Use FPGA for Neural Networks?
 <img width="805" height="788" alt="image" src="https://github.com/user-attachments/assets/e755391a-0313-4170-8ac1-7f6184ca5d98" />
+
+<img width="430" height="668" alt="image" src="https://github.com/user-attachments/assets/bb583b07-261f-4119-9cb7-3646722636d8" />
+
+<img width="434" height="846" alt="image" src="https://github.com/user-attachments/assets/2c995d9b-e705-438d-8363-429621dae40b" />
+
+<img width="303" height="90" alt="image" src="https://github.com/user-attachments/assets/eff4b90d-2b23-423b-b46e-d6e143139386" />
+
+<img width="289" height="111" alt="image" src="https://github.com/user-attachments/assets/7c510bc2-c9eb-466a-802e-91a9a30c0599" />
+
+
+
+
+---
+
+### FPGA-Based Accelerators of Deep Learning Networks for Learning and Classification: A Review
+### How FPGAs Accelerate Neural Networks
+
+<img width="486" height="610" alt="image" src="https://github.com/user-attachments/assets/56176f1e-8fb7-41df-967e-6a61751a3d81" />
+
+<img width="714" height="376" alt="image" src="https://github.com/user-attachments/assets/a03faeb8-8b51-4a1d-9fd1-a9005038e829" />
+
+<img width="433" height="291" alt="image" src="https://github.com/user-attachments/assets/e12d94f4-251d-454f-aab9-119cab13591b" />
+
+
 
 
 
@@ -40,15 +64,24 @@ Why Use FPGA for Neural Networks?
 ---
 
 
+### FPGA-Based Accelerators of Deep Learning Networks for Learning and Classification: A Review
+### Related Work and Current Results
 
+<img width="703" height="164" alt="image" src="https://github.com/user-attachments/assets/c2e61506-0ea7-4a0d-b5c4-140f3beab3fe" />
 
+<img width="337" height="726" alt="image" src="https://github.com/user-attachments/assets/f8bec177-ac77-4da8-a1b0-529f3541a3c5" />
 
+<img width="242" height="158" alt="image" src="https://github.com/user-attachments/assets/55f443a9-0cac-454c-a209-0512d70b83d5" />
 
+<img width="493" height="644" alt="image" src="https://github.com/user-attachments/assets/8dabc1ff-18a3-45e8-9d5f-8e3518be6d60" />
 
+<img width="514" height="677" alt="image" src="https://github.com/user-attachments/assets/01f790a2-3304-4ae4-9710-1cd26c0ddf56" />
 
+<img width="514" height="666" alt="image" src="https://github.com/user-attachments/assets/ed6ccd80-0bb6-4116-a2e2-2a1e5452f6a9" />
 
+<img width="530" height="510" alt="image" src="https://github.com/user-attachments/assets/44431756-0314-420d-ac81-6025d34a9d4f" />
 
-
+<img width="526" height="664" alt="image" src="https://github.com/user-attachments/assets/46a502e9-6cc2-4a86-8646-dcd71f2da50a" />
 
 
 
