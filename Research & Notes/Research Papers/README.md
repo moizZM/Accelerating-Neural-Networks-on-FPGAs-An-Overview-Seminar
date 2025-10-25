@@ -5,6 +5,10 @@
 ## challanges 
 <img width="755" height="907" alt="image" src="https://github.com/user-attachments/assets/d466eca8-a64e-427f-aa98-23eb7acc87ab" />
 <img width="353" height="828" alt="image" src="https://github.com/user-attachments/assets/2c7def7e-dbb1-455a-b304-f1cc09267186" />
+<img width="344" height="136" alt="image" src="https://github.com/user-attachments/assets/042a3a0f-5323-444d-8521-16d765969c23" />
+<img width="368" height="444" alt="image" src="https://github.com/user-attachments/assets/dce4cbea-cacc-43b5-8f6e-01258512e5fd" />
+<img width="376" height="194" alt="image" src="https://github.com/user-attachments/assets/dfd9bd62-9689-40ff-8da5-8539f0e5d726" />
+<img width="659" height="310" alt="image" src="https://github.com/user-attachments/assets/b132bb9f-2a23-4f35-9a67-89508f663eee" />
 
 ---
 #### RELATED WORK AND CURRENT RESULTS
