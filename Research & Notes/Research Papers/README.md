@@ -1,5 +1,14 @@
 ## Research 
 
+---
+
+## challanges 
+<img width="755" height="907" alt="image" src="https://github.com/user-attachments/assets/d466eca8-a64e-427f-aa98-23eb7acc87ab" />
+<img width="353" height="828" alt="image" src="https://github.com/user-attachments/assets/2c7def7e-dbb1-455a-b304-f1cc09267186" />
+
+
+---
+
 
 ## For Introduction
 ### FPGA-Based Accelerators of Deep Learning Networks for Learning and Classification: A Review
